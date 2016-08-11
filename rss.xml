@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[AirDesigns]]></title>
-        <description><![CDATA[AirDesigns]]></description>
+        <title><![CDATA[Air-conditioning designed for you]]></title>
+        <description><![CDATA[Air-conditioning designed for you]]></description>
         <link>https://thegrid.ai/airdesigns/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 04:01:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 04:02:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/airdesigns/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Contemporary Office]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13e54058-e128-4ce0-b8a9-829a73aa6f6f.jpg">]]></description>
             <link>https://thegrid.ai/airdesigns/contemporary-office-with-painted-flexible-duct-and-diffusion/index.html</link>
             <guid isPermaLink="false">04ff2228-9d22-491c-b48c-46baaa63ee2e</guid>
-            <pubDate>Thu, 11 Aug 2016 04:01:05 GMT</pubDate>
+            <pubDate>Thu, 11 Aug 2016 04:02:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
