@@ -1,6 +1,6 @@
 name: AirDesigns
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.40638
 typography_spectrum: 0.41674
 title: Air-conditioning designed for you
 cta:
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.3234058383386582
-  lightness: 0.02726351423189044
-  saturation: 0.44609312736429274
-  rhythmicContrast: 0.022791997529566288
+  brandStrength: 0.3125
+  lightness: 0.3125
+  saturation: 0.3125
+  rhythmicContrast: 0
 purpose: []
