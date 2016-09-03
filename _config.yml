@@ -1,29 +1,41 @@
-name: AirDesigns
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.41674
 title: Air-conditioning designed for you
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.6792115
+  brandStrength: 0.125
+  lightness: 0.5
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.125
-  lightness: 0.5
-  saturation: 0.6875
-  rhythmicContrast: 0
-purpose: []
+  rhythmicContrast: 0.2275986
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+name: AirDesigns
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.41674
+layout_spectrum: 0.2562724
